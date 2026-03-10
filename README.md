@@ -1,4 +1,4 @@
-# 🔥 Python-Data-Analysis-LLM
+# 💎 Python-Data-Analysis-LLM
 ### 〜 文学部の視点でIT・データ分析を論理的に再解釈する 〜
 
 
