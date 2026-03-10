@@ -7,7 +7,7 @@
 ## ＊ 構成 ＊
 ### 📚 [01_Practice_Notebooks](./01_Practice_Notebooks)
 **・ 実践データ分析100本ノック＆LLM活用20本ノック**
-### ⛄ [02_Optimization_Reports](./02_Optimization_Reports)
+### ⛄ [02_Optimization_Reports](./02_Optimization_Reports.pdf)
 **・ コード修正および最適化プログラム構築**
 ### 🍂 [03_Literary_Dictionary](./03_Literary_Dictionary)
 **・ IT用語＆Python再定義辞書**
