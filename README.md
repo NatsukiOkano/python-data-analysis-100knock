@@ -3,7 +3,7 @@
 非情報系でも直感的にIT用語やPythonプログラムが理解できる完全独自解説を記述した資料（Google Colabノートブック / PDF）は、以下の3セクションで展開しています。
 ## ＊ 構成 ＊
 ### 📚 [01_Practice_Notebooks](./01_Practice_Notebooks)
-**実践データ分析100本ノック＆LLM活用20本ノック**
+**- 実践データ分析100本ノック＆LLM活用20本ノック**
 ### ⛄ [02_Optimization_Reports](./02_Optimization_Reports)
 **コード修正および最適化プログラム構築**
 ### 🍂 [03_Literary_Dictionary](./03_Literary_Dictionary)
